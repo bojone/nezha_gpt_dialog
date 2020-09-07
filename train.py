@@ -1,6 +1,7 @@
 #! -*- coding: utf-8 -*-
 # NEZHA模型做闲聊任务
 # 训练脚本
+# 训练环境：tensorflow 1.14 + keras 2.3.1 + bert4keras 0.8.4
 
 import json
 import numpy as np
